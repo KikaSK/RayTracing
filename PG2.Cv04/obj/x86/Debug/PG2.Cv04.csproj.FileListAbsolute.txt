@@ -1,0 +1,11 @@
+C:\Users\korec\Desktop\School\Matfyz\8. semester\PG2\PU4\PG2.Cv04.Template\PG2.Cv04\obj\x86\Debug\PG2.Cv04.csproj.AssemblyReference.cache
+C:\Users\korec\Desktop\School\Matfyz\8. semester\PG2\PU4\PG2.Cv04.Template\PG2.Cv04\obj\x86\Debug\PG2.Cv04.csproj.SuggestedBindingRedirects.cache
+C:\Users\korec\Desktop\School\Matfyz\8. semester\PG2\PU4\PG2.Cv04.Template\PG2.Cv04\obj\x86\Debug\PG2.Cv04.Form1.resources
+C:\Users\korec\Desktop\School\Matfyz\8. semester\PG2\PU4\PG2.Cv04.Template\PG2.Cv04\obj\x86\Debug\PG2.Cv04.Properties.Resources.resources
+C:\Users\korec\Desktop\School\Matfyz\8. semester\PG2\PU4\PG2.Cv04.Template\PG2.Cv04\obj\x86\Debug\PG2.Cv04.csproj.GenerateResource.cache
+C:\Users\korec\Desktop\School\Matfyz\8. semester\PG2\PU4\PG2.Cv04.Template\PG2.Cv04\obj\x86\Debug\PG2.Cv04.csproj.CoreCompileInputs.cache
+C:\Users\korec\Desktop\School\Matfyz\8. semester\PG2\PU4\PG2.Cv04.Template\PG2.Cv04\bin\Debug\PG2.Cv04.exe.config
+C:\Users\korec\Desktop\School\Matfyz\8. semester\PG2\PU4\PG2.Cv04.Template\PG2.Cv04\bin\Debug\PG2.Cv04.exe
+C:\Users\korec\Desktop\School\Matfyz\8. semester\PG2\PU4\PG2.Cv04.Template\PG2.Cv04\bin\Debug\PG2.Cv04.pdb
+C:\Users\korec\Desktop\School\Matfyz\8. semester\PG2\PU4\PG2.Cv04.Template\PG2.Cv04\obj\x86\Debug\PG2.Cv04.exe
+C:\Users\korec\Desktop\School\Matfyz\8. semester\PG2\PU4\PG2.Cv04.Template\PG2.Cv04\obj\x86\Debug\PG2.Cv04.pdb
